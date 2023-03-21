@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi everyone 👋
+- I’m @jenifferbio (pronouns: she/her) and this is my special repository!
+- 🧬I’m interested in Bioinformatic
+- 💻I’m currently learning [Computational science, Python, Genomic]
+- 👩🏿🤝‍👩🏼I’m looking to collaborate in supportive communities for women in computing
+- 📫 How to reach me: jeniffer_evangelista@hotmail.com
 
 <!--
 **Jenifferbio/jenifferbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
