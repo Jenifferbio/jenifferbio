@@ -11,6 +11,7 @@ I’m @jenifferbio (pronouns: she/her) and this is my special repository!
   Throughout my Master's I am developing various scripts to extract meaningful information from biological databases, manipulate genomes and files of different formats.
 
 🧬 I’m interested in Bioinformatic, Computational science, Python and Genomic.
+
 👩🏿🤝‍👩🏼 I’m looking to collaborate in supportive communities for women in computing
 
 
