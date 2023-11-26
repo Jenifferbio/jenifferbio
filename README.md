@@ -1,5 +1,5 @@
-### Hi everyone 👋
-I’m @jenifferbio (pronouns: she/her) and this is my special repository!
+### Hi guys!
+I’m Jeniffer Fon&show_icons=trueseca @jenifferbio (pronouns: she/her) and this is my special repository!
 
 🎓 Education:
 
