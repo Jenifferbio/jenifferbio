@@ -1,10 +1,12 @@
 ### Hi guys!
 My name is Jeniffer Fonseca @jenifferbio (pronouns: she/her) and this is my special repository!
+I am a bioinformatics researcher who uses Python and R to solve biological problems in genomics, phylogenomics, and proteomics.
 
 🎓 Education:
 
 - Bachelor's degree in Biology.
-- Master's degree candidate in Computacional Biology and Sistems.
+- Master's degree in Bioinformatics.
+- I am currently a PhD candidate in Cellular and Molecular Biology.
 
 💡 Script Development:
     
